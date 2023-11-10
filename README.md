@@ -62,7 +62,7 @@ Product quality.</div>
 ### QA  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" alt="Androidstudio" height="" />
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" alt="Androidstudio" height="50" />
 
 </div>
 
