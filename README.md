@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Root-Sergey</h1>
+<h1 align="center">Hi 👋, I'm Sergey</h1>
 <h3 align="center">QA in Ukrain</h3>
 
 - 🔭 I’m currently working on [Daily Smoke Web Capital.com](Capital.com)
